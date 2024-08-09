@@ -1,7 +1,7 @@
 <template>
   <div>
-    <button @click="createHtml">Create HTML File</button>
     <button @click="createFile">Create normal File</button>
+    <button @click="createHtml">Create HTML File</button>
   </div>
 </template>
 
